@@ -1,7 +1,7 @@
 <html> 
 
-Hello there! 
-I am Mickaela Alcantara <br>
+<b>Hello there!<b> <br>
+I am <b>Mickaela Alcantara </b> <br>
 student at New Era University <br>
 
 <b> Certifications </b> <br> 
