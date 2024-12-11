@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-Hello There! 
+Hello There! <br>
 </head>
 
 <body>
- I am Mickaela Alcantara
+ I am Mickaela Alcantara <br>
 Student at New Era University
 
   <b style="font-size: 16px;"> Certifications </b> <br> <br>
