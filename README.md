@@ -4,13 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hello There!</title>
+
 </head>
 
 <body>
   <header style="text-align: center; margin: 20px;">
     <h1>Mickaela Alcantara</h1>
-    <p>Web Developer | Tech Enthusiast</p>
   </header>
 
   <section style="text-align: center; margin: 20px;">
