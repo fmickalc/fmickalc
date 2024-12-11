@@ -17,7 +17,12 @@
     <p>
      <b> <h2> Certifications: </h1> </b> <br>
       <a href="https://courses.cognitiveclass.ai/certificates/5aa8c59150ca40ea9089a6cc4fba13ad" target="_blank">Cognitive Class</a> | <br>
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DE393F694DC7A03DB4DDDDADA17B0F99B9D20711E876B4B7292DC004AFABBEC4" target="_blank"> Oracle Cloud Infrastructure Foundations Associate</a>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DE393F694DC7A03DB4DDDDADA17B0F99B9D20711E876B4B7292DC004AFABBEC4" target="_blank"> Oracle Cloud 
+Infrastructure Foundations Associate</a> <br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5777EC3C252660C83841E2B34910B5F54F26B437BC225C0A6FFA784370593DBF>Oracle Cloud Data Management Foundations Associate</a> | <br>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5777EC3C252660C83841E2B34910B5F54F26B437BC225C0A6FFA784370593DBF">OCI AI Foundations Associate (2024)</a> | <br>
+
+
     </p>
   </section>
 
