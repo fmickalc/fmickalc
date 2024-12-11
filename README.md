@@ -23,7 +23,7 @@ Infrastructure Foundations Associate</a> <br>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5777EC3C252660C83841E2B34910B5F54F26B437BC225C0A6FFA784370593DBF">OCI AI Foundations Associate (2024)</a> | <br>
 
 
-    </p>
+    
   </section>
 
   <footer style="text-align: center; margin: 20px; font-size: 0.9em;">
